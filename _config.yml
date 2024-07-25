@@ -1,6 +1,6 @@
 # Site Settings
 locale                   : "en-US"
-title                    : "Mohsen Rahmati's Webpage"
+title                    : "Mohsen's Webpage"
 title_separator          : "-"
 name                     : &name "Mohsen Rahmati"
 description              : &description "Computer Engineering Ph.D. Student at Polytechnique Montréal"
