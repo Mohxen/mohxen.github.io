@@ -1,10 +1,10 @@
 ---
 permalink: /
 #title: "Mohsen Rahmati - Computer Engineering Ph.D. Candidate"
-excerpt: "About Me"
-author_profile: true
+#excerpt: "About Me"
+#author_profile: true
 ---
-
+# About Me
 I am a Computer Engineering Ph.D. candidate at Polytechnique Montréal with a strong background in Machine Learning, Data Analysis, Compiler Design, Software Engineering, and Computer Networks. I have expertise in various programming languages and hardware description languages, including C, C++, C#, SQL, Python, VHDL, and Verilog. My research is focused on enhancing P4 language constructs, transitioning P4 code to different intermediate representations, and implementing heterogeneous compilers.
 
 ## Education
