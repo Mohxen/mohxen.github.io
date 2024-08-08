@@ -1,48 +1,60 @@
 ---
 permalink: /
-title: "Mohsen Rahmati"
+#title: "Mohsen Rahmati - Computer Engineering Ph.D. Candidate"
 excerpt: "About Me"
 author_profile: true
 ---
 
 # About Me
-I am a Computer Engineering Ph.D. candidate at Polytechnique Montréal. My research interests include designing operating systems and host networking components for datacenter applications. Currently, I'm investigating the sources and implications of data center traffic burstiness.
+I am a Computer Engineering Ph.D. candidate at Polytechnique Montréal with a strong background in Machine Learning, Data Analysis, Compiler Design, Software Engineering, and Computer Networks. I have expertise in various programming languages and hardware description languages, including C, C++, C#, SQL, Python, VHDL, and Verilog. My research is focused on enhancing P4 language constructs, transitioning P4 code to different intermediate representations, and implementing heterogeneous compilers.
 
 ## Education
-- **2019-Present:** Computer Engineering Ph.D., Polytechnique Montréal
-- **2019-2021:** Computer Science M.S.Eng., Johns Hopkins University
-- **2016-2018:** Computer Software Engineering MSc., Iran University of Science and Technology
-- **2012-2016:** Computer Software Engineering BSc., Iran University of Science and Technology
+- **PhD Candidate in Computer Engineering**  
+  *Polytechnique Montréal, Canada*  
+  May 2022 - Present
 
-## Current Research
-- **Microbursts:** Investigating ways to identify, measure, and mitigate microbursts, which are hidden culprits behind data center network performance degradation.
-- **Process Scheduling:** Exploring new schemes for more efficient resource utilization while preserving the performance of latency-sensitive applications in data centers.
-- **Power Management:** Developing smarter CPU power-saving techniques for latency-critical datacenter applications.
+- **MSc in Computer Engineering**  
+  *Shahid Beheshti University (SBU), Iran*  
+  Sept 2018 - Sept 2021
 
-## Publications
-- **Practical Packet Deflection in Datacenters:** Sepehr Abdous, Erfan Sharafzadeh, Soudeh Ghorbani. 2023. In CoNEXT '23. [slides](#) [artifacts](#)
-- **Understanding the impact of host networking elements on traffic bursts:** Erfan Sharafzadeh, Sepehr Abdous, Soudeh Ghorbani. 2023. In NSDI '23. [webpage](#) [slides](#) [artifacts](#)
-- **Understanding Microquanta Process Scheduling for Cloud Applications:** Erfan Sharafzadeh, Alireza Sanaee, Peng Huang, Gianni Antichi, Soudeh Ghorbani. 2022. In ACM/IEEE CloudAM '22. [slides](#) [artifacts](#)
-- **More Publications...**
+- **BSc in Computer Engineering**  
+  *Iran University of Science and Technology (IUST) and Semnan University, Iran*  
+  Sept 2012 - Jan 2017
 
-## Professional and Work Experience
-- **Research Associate Intern, Hewlett Packard Labs, Summer 2023 - Present**
-- **Artifact Evaluation Committee Member, 2023 ACM SOSP**
-- **Shadow PC Member, EuroSys 2022, EuroSys 2021**
-- **Infrastructure Lead, IUST Cloud Computing Center**
+## Work Experience
+- **Research Assistant**  
+  *Polytechnique Montréal, Canada*  
+  Apr 2021 - Present  
+  - Enhanced P4 language constructs for network devices using LEX, YACC, and IR classes in C/C++ and Python.
+  - Transitioned P4 code/IR to CUDA, MLIR, and LLVM’s IR for a heterogeneous compiler implemented on RISC-V.
+  - Developed a complete object-oriented compiler with lexer, parser, symbol table, semantic analyzer, AST, and code generation.
+  - Designed and implemented P4 codes and control planes for network applications (Firewall and Load Balancer) in Software Switch, FPGA, and ASIC.
 
-## Teaching Assistance
-- **Fall 2022:** Computer Networks, JHU
-- **Spring 2020:** Cloud Computing, JHU
-- **More Teaching Experience...**
+- **Research Engineer**  
+  *System Negar Sayna, Iran*  
+  Sept 2017 – May 2022  
+  - Developed and tested intelligent software for data analysis using C++, Python, NumPy, and Pandas.
+  - Worked on software to analyze news and select articles according to user preferences using ML techniques with Scikit-learn, TensorFlow, and Keras.
 
-## News
-- **Nov 14, 2023:** Our paper "Practical Packet Deflection for Datacenters" is accepted at CoNEXT '23.
-- **Apr 28, 2023:** I'll be joining the NDSL group at Hewlett Packard Labs as a Research Intern this summer.
-- **More News...**
+- **Research Assistant**  
+  *Karlsruhe Institute of Technology (KIT), Germany*  
+  May 2020 – Sep 2020  
+  - Optimized multi-core processor performance under temperature constraints and improved ML-based models for application performance prediction.
+  - Improved and debugged the HotSniper simulator for Splash-2 benchmarks using C/C++.
+  - Analyzed power, IPS, and CPI, and visualized data with Python (Pandas, NumPy, Matplotlib).
 
-## Misc
-When I'm away from my PC, I enjoy playing soccer, video games, and reading. I'm a Tolkien fan and love discussing books and gaming!
+## Projects
+- Created a Mutex and condition variables for the producer-consumer problem using C and Pthreads.
+- Detected P2P botnets by discovering flow dependency in C&C traffic using Python and Scapy.
+- Developed a WAV player in C for ARM Keil and implemented it on the STM32F4 Discovery board.
+- Implemented the AES/DES algorithm in C and VHDL to enhance hardware security.
+- Installed and configured dependencies for specific packages and modified GCC for compiling in Scientific Linux.
+- Compared the performance of NoSQL data models for Big Data and analyzed different software architectures like REST and SOAP.
+
+## Volunteer Experience
+- **Instructor**  
+  *Iran University of Science and Technology*  
+  - Taught programming languages, English, and mathematics to students.
 
 ## Contact
-You can reach me via [academic email](mailto:mohsen.rahmati@polymtl.ca) or my [personal email](mailto:yourpersonalemail@example.com).
+Feel free to reach out to me via [academic email](mailto:mohsen.rahmati@polymtl.ca) or [personal email](mailto:mahxen@gmail.com).
