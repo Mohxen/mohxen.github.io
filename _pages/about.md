@@ -6,7 +6,7 @@ permalink: /
 ---
 <!-- # About Me -->
 <!-- <div style="text-align: justify;"> -->
-I am a Computer Engineering Ph.D. candidate at Polytechnique Montréal with a strong background in Machine Learning, Data Analysis, Compiler Design, Software Engineering, and Computer Networks. I have expertise in various programming and hardware description languages, including C, C++, C#, SQL, Python, VHDL, and Verilog. My research is focused on enhancing P4 language constructs, transitioning P4 code to different intermediate representations, and implementing heterogeneous compilers.
+I am a Computer Engineering Ph.D. candidate at Polytechnique Montréal with a strong background in Machine Learning, Compiler Design, Software Engineering, and Computer Networks. I have expertise in various programming and hardware description languages, including C, C++, C#, SQL, Python, VHDL, and Verilog. My research is focused on enhancing P4 programming language and compiler.
 <!-- </div> -->
 
 ## Education
@@ -27,7 +27,6 @@ I am a Computer Engineering Ph.D. candidate at Polytechnique Montréal with a st
   *Polytechnique Montréal, Canada*  
   Apr 2021 - Present  
   - Enhanced P4 language constructs for network devices using LEX, YACC, and IR classes in C/C++ and Python.
-  - Transitioned P4 code/IR to CUDA, MLIR, and LLVM’s IR for a heterogeneous compiler implemented on RISC-V.
   - Developed a complete object-oriented compiler with lexer, parser, symbol table, semantic analyzer, AST, and code generation.
   - Designed and implemented P4 codes and control planes for network applications (Firewall and Load Balancer) in Software Switch, FPGA, and ASIC.
 
