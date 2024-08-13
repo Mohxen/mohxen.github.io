@@ -47,7 +47,6 @@ I am a Computer Engineering Ph.D. candidate at Polytechnique Montréal with a st
 - Created a Mutex and condition variables for the producer-consumer problem using C and Pthreads.
 - Detected P2P botnets by discovering flow dependency in C&C traffic using Python and Scapy.
 - Developed a WAV player in C for ARM Keil and implemented it on the STM32F4 Discovery board.
-- Implemented the AES/DES algorithm in C and VHDL to enhance hardware security.
 - Installed and configured dependencies for specific packages and modified GCC for compiling in Scientific Linux.
 - Compared the performance of NoSQL data models for Big Data and analyzed different software architectures like REST and SOAP.
 
