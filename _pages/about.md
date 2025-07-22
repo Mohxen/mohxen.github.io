@@ -11,11 +11,11 @@ I am a Computer Engineering Ph.D. candidate at Polytechnique Montréal with a st
 
 ## Publications
 
-- **Modular Code Parser for the P4 Language**  
-  *Mohsen Rahmati, François-Raymond Boyer, Bill Pontikakis, Jean-Pierre David, and Yvon Savaria*, Presented at P4 Workshop 2023. **[ [PDF](assets/papers/p4workshop2023-paper30_Mohsen.pdf) ]**
+- **Modular Code Parser for the P4 Language**  **[[PDF](assets/papers/p4workshop2023-paper30_Mohsen.pdf)]**
+  *Mohsen Rahmati, François-Raymond Boyer, Bill Pontikakis, Jean-Pierre David, and Yvon Savaria*, Presented at P4 Workshop 2023.
 
-- **P4Muse: Enabling Modular P4 Programming via Compiler-Managed Code Merging Without Syntax Modifications**  
-  *M. Rahmati, F.-R. Boyer, B. Pontikakis, J. Pierre David, Y. Savaria* IEEE Access, Vol. 13, 2025, pp. 124138-124157. **[ [PDF](https://ieeexplore.ieee.org/document/11080440) ]**
+- **P4Muse: Enabling Modular P4 Programming via Compiler-Managed Code Merging Without Syntax Modifications** **[[PDF](https://ieeexplore.ieee.org/document/11080440)]** 
+  *M. Rahmati, F.-R. Boyer, B. Pontikakis, J. Pierre David, Y. Savaria* IEEE Access, Vol. 13, 2025, pp. 124138-124157. 
 
 ## Education
 - **PhD Candidate in Computer Engineering**  
