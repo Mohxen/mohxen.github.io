@@ -6,7 +6,7 @@ permalink: /
 ---
 <!-- # About Me -->
 <!-- <div style="text-align: justify;"> -->
-I’m a Ph.D. candidate in Computer Engineering at Polytechnique Montréal, where I focus on enhancing the P4 programming language and its compiler. I enjoy working at the intersection of systems, compilers, computer networks and also ML :)
+I am a Ph.D. candidate in Computer Engineering at Polytechnique Montréal. I focus on enhancing the P4 programming language and its compiler. I enjoy working at the intersection of systems, compilers, computer networks, and machine learning :)
 <!-- </div> -->
 
 ## Publications
