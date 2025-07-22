@@ -6,13 +6,13 @@ permalink: /
 ---
 <!-- # About Me -->
 <!-- <div style="text-align: justify;"> -->
-I am a Computer Engineering Ph.D. candidate at Polytechnique Montréal with a strong background in Machine Learning, Compiler Design, Software Engineering, and Computer Networks. I have expertise in various programming and hardware description languages, including C, C++, C#, SQL, Python, VHDL, and Verilog. My research is focused on enhancing P4 programming language and compiler.
+I’m a Ph.D. candidate in Computer Engineering at Polytechnique Montréal, where I focus on enhancing the P4 programming language and its compiler. I enjoy working at the intersection of systems, compilers, computer networks and also ML :)
 <!-- </div> -->
 
 ## Publications
 
 - **Modular Code Parser for the P4 Language** **[[PDF](assets/papers/p4workshop2023-paper30_Mohsen.pdf)]**
-  - *M. Rahmati, F.-R. Boyer, B. Pontikakis, J. Pierre David, Y. Savaria*, Presented at P4 Workshop 2023.
+  - *M. Rahmati, F.-R. Boyer, B. Pontikakis, J. -P. David, Y. Savaria*, Presented at P4 Workshop 2023.
 
 - **P4Muse: Enabling Modular P4 Programming via Compiler-Managed Code Merging Without Syntax Modifications** **[[PDF](https://ieeexplore.ieee.org/document/11080440)]**
   - *M. Rahmati, F.-R. Boyer, B. Pontikakis, J. Pierre David, Y. Savaria*, IEEE Access, Vol. 13, 2025, pp. 124138-124157.
