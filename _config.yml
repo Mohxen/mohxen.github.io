@@ -80,7 +80,7 @@ author:
   location         : "Montréal, Canada"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.ca/citations?user=8H8M5_IAAAAJ&hl=en"
   email            : "mailto:mohsen.rahmati@polymtl.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
