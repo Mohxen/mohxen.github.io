@@ -9,6 +9,13 @@ permalink: /
 I am a Computer Engineering Ph.D. candidate at Polytechnique Montréal with a strong background in Machine Learning, Compiler Design, Software Engineering, and Computer Networks. I have expertise in various programming and hardware description languages, including C, C++, C#, SQL, Python, VHDL, and Verilog. My research is focused on enhancing P4 programming language and compiler.
 <!-- </div> -->
 
+## Publications
+
+- **P4Muse: Enabling Modular P4 Programming via Compiler-Managed Code Merging Without Syntax Modifications**  
+  *M. Rahmati, F.-R. Boyer, B. Pontikakis, J. Pierre David, Y. Savaria*  
+  IEEE Access, Vol. 13, 2025, pp. 124138-124157  
+  [DOI: 10.1109/ACCESS.2025.3307303](https://ieeexplore.ieee.org/document/11080440)
+
 ## Education
 - **PhD Candidate in Computer Engineering**  
   *Polytechnique Montréal, Canada*  
@@ -30,9 +37,9 @@ I am a Computer Engineering Ph.D. candidate at Polytechnique Montréal with a st
   - Developed a complete object-oriented compiler with lexer, parser, symbol table, semantic analyzer, AST, and code generation.
   - Designed and implemented P4 codes and control planes for network applications (Firewall and Load Balancer) in Software Switch, FPGA, and ASIC.
 
-- **Research Engineer**  
+- **Software Engineer**  
   *System Negar Sayna, Iran*  
-  Sept 2017 – May 2022  
+  Sept 2017 – May 2022  Research
   - Developed and tested intelligent software for data analysis using C++, Python, NumPy, and Pandas.
   - Worked on software to analyze news and select articles according to user preferences using ML techniques with Scikit-learn, TensorFlow, and Keras.
 
